@@ -15,7 +15,6 @@ namespace Dii_MovieCatalogSvc
 {
     public class Startup
     {
-        // Test Workflow
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
