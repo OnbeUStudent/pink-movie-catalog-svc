@@ -10,7 +10,7 @@ using Microsoft.OpenApi.Models;
 using dii_MovieCatalogSvc.Data;
 using dii_MovieCatalogSvc.Features.SeedData;
 using System.IdentityModel.Tokens.Jwt;
-
+// Add by Min
 namespace Dii_MovieCatalogSvc
 {
     public class Startup
