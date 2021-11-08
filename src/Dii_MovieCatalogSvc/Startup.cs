@@ -15,6 +15,7 @@ namespace Dii_MovieCatalogSvc
 {
     public class Startup
     {
+        //Test
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
